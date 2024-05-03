@@ -1,0 +1,45 @@
+li {
+    list-style: none;
+}
+
+.searchinput {
+    padding-left: 220px;
+    padding-bottom: 10px;
+}
+
+.submitinput {
+    padding-left: 40px;
+}
+
+.des-dat {
+    margin-top: 20px;
+}
+
+.row {
+    margin: 0 20px;
+}
+
+.temp {
+    font-size: 40px;
+}
+
+.cent {
+    font-size: 20px;
+    position: relative;
+    top: -15px;
+}
+
+.deg {
+    font-size: 25px;
+    position: relative;
+    top: -10px;
+}
+
+.temp-img {
+    display: flex;
+}
+
+img {
+    position: relative;
+    bottom: -20px;
+}
